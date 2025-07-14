@@ -1,8 +1,8 @@
 import React from 'react';
-import { QuantumSimulator } from './components/QuantumSim/QuantumSimulator';
+import { TutorialSystem } from './components/Education/TutorialSystem';
 
 function App() {
-  return <QuantumSimulator />;
+  return <TutorialSystem />;
 }
 
 export default App;
